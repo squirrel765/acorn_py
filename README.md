@@ -1,4 +1,6 @@
 # 도토리_파이썬 프로젝트 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirrel765&layout=compact)
+
 ## 2025.01.09
 **semu_helper, semu_helper2를 추가하였습니다.**  
 semu_helper2는 부가가치 계산에 있어 표 기능을 파이썬 GUI로 세심하게 구현해보고자 하였으나, 아직 미완성 단계입니다.  
